@@ -1,0 +1,92 @@
+GCA_000004695.1_dicty_2.7_genomic.fna
+CM000150.2
+  start     end
+   51454   51468
+   99999  100011
+  103088  103101
+CM000151.3
+  start     end
+ 6668738 6668751
+CM000152.2
+  start     end
+CM000153.2
+  start     end
+CM000154.2
+  start     end
+CM000155.2
+  start     end
+ 1529168 1529180
+ 2732313 2732331
+ 2732473 2732496
+CH709156.1
+  start     end
+CH709157.1
+  start     end
+CH709158.1
+  start     end
+CH709159.1
+  start     end
+CH709160.1
+  start     end
+CH709161.1
+  start     end
+CH709162.1
+  start     end
+CH709164.1
+  start     end
+CH709148.1
+  start     end
+CH709166.1
+  start     end
+CH709167.1
+  start     end
+CH709168.1
+  start     end
+    4315    4327
+CH709169.1
+  start     end
+CH709170.1
+  start     end
+CH709171.1
+  start     end
+CH709172.1
+  start     end
+CH709173.1
+  start     end
+CH709174.1
+  start     end
+CH709175.1
+  start     end
+CH709149.1
+  start     end
+CH709176.1
+  start     end
+CH709177.1
+  start     end
+CH709178.1
+  start     end
+CH709179.1
+  start     end
+CH709180.1
+  start     end
+CH709181.1
+  start     end
+CH709182.1
+  start     end
+   28241   28263
+   28397   28409
+   29974   29984
+   29997   30009
+   31875   31892
+CH709150.1
+  start     end
+CH709151.1
+  start     end
+CH709152.1
+  start     end
+CH709153.1
+  start     end
+CH709154.1
+  start     end
+CH709155.1
+  start     end
